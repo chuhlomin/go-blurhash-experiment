@@ -1,6 +1,6 @@
 # go-blurhash-experiment
 
-This repository is an attempt to create CLI for [go-blurhash](github.com/bbrks/go-blurhash) library, mainly to try it out.
+This repository is an attempt to create CLI for [go-blurhash](https://github.com/bbrks/go-blurhash) library, mainly to try it out.
 
 It contains source code for 2 binaries: encoder and decoder.
 
